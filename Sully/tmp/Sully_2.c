@@ -6,7 +6,7 @@ int main()
 {
 char dc = '"';
 char n = 10;
-int i = 5;
+int i = 2;
 if (i <= 0)
 return 0;
 char file_name[256];
